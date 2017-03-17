@@ -1,0 +1,27 @@
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\bin\Debug\Accounting processing system.exe.config
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\bin\Debug\Accounting processing system.exe
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\bin\Debug\Accounting processing system.pdb
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\bin\Debug\Accounting processing system.xml
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting processing system.vbprojResolveAssemblyReference.cache
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.Authentication.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.cash.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.changepass.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.employees.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.Form1.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.MainMenu.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.Resources.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.payroll.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.Purchases.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.RadAboutBox1.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.reports.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.reportselection.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.sales.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.ShapedForm1.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.stocks.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.suppliers.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting_processing_system.users.resources
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting processing system.vbproj.GenerateResource.Cache
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting processing system.exe.licenses
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting processing system.exe
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting processing system.xml
+C:\Users\TINASHE\Documents\Visual Studio 2013\Projects\Accounting processing system\Accounting processing system\obj\Debug\Accounting processing system.pdb
